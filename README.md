@@ -10,5 +10,5 @@ You can edit the Sudoku grid in the `src/main.rs` file. Then, just run `cargo ru
 
 # Todo
 
-- [] Get Sudoku Grid from user input
-- [] Add more Sudoku solving methods
+- Get Sudoku Grid from user input
+- Add more Sudoku solving methods
